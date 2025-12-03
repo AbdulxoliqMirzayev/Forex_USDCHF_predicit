@@ -35,7 +35,7 @@ Notebookni oching va kod bloklarini ketma-ket ishga tushiring.
 
 ---
 
-## 🛠 Ishlatilgan texnologiyalar
+##  Ishlatilgan texnologiyalar
 
 ###  Dasturlash
 - Python 3.x
