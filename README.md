@@ -55,4 +55,5 @@ Notebookni oching va kod bloklarini ketma-ket ishga tushiring.
 ###  Qo‘shimcha indikatorlar
 - **MA10** — 10 kunlik o‘rtacha narx
 - **RSI14** — momentum indikatori
+<img width="1582" height="484" alt="download" src="https://github.com/user-attachments/assets/c74a39a0-f4be-4702-a827-0c9bc49abb8e" />
 
